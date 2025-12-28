@@ -51,6 +51,7 @@ MySQL (ou autre SGBD compatible)
 └── README.md
 
 ⚙️ Installation & lancement
+
 1️⃣ Cloner le projet
 git clone https://github.com/Anna272003/SalamaPharma.git
 cd SalamaPharma
