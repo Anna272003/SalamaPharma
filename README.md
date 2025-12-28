@@ -1,6 +1,6 @@
 SalamaPharma
 
-SalamaPharma est une application mobile de gestion et de commande de médicaments destinée aux utilisateurs, pharmacies et administrateurs.
+SalamaPharma est une application mobile de gestion et de commande de médicaments destinée aux utilisateurs,et administrateurs.
 Elle permet de consulter des médicaments, passer des commandes, suivre leur état et gérer les ressources côté administration.
 
 🚀 Fonctionnalités principales
@@ -9,7 +9,7 @@ Inscription / Connexion
 Consultation des médicaments
 Recherche et filtrage par catégories
 Passage de commande
-Suivi de commande en temps réel
+Suivi de commande 
 Mode sombre / clair
 🛠️ Administration
 Dashboard avec statistiques
@@ -26,13 +26,14 @@ TypeScript
 Expo Router
 Context API (Theme)
 Axios
+
 _Backend
 Node.js
 Express.js
 API REST
-JWT Authentication
+
 _Base de données
-MySQL (ou autre SGBD compatible)
+MySQL
 
 📁 Structure du projet
 .
